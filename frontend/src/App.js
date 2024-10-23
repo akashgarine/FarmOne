@@ -12,8 +12,6 @@ import AddTool from './pages/AddTool/AddTools'
 import React, { useState } from 'react';
 import { CartProvider } from './context/CartContext';
 import CartPage from './pages/CartPage/CartPage';
-import KommunicateChat from './KommunicateChat';
-
 //  Wrapper component to hide Navbar on certain routes
 // const AppWrapper = () => {
 //   const [cartCount, setCartCount] = useState(0);
