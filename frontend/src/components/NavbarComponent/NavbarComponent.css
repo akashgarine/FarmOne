@@ -1,0 +1,105 @@
+/* .Navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    background-color: transparent !important; 
+    box-shadow: none !important; 
+    border: none !important; 
+}
+
+
+body {
+    padding-top: 60px;
+}
+
+.farmone-brand {
+    color: #10a110 !important;
+    font-weight: 700;
+    font-size: 1.6rem !important;
+    letter-spacing: 0.5px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav-link {
+    color: #413f3f !important;
+    padding: 0 15px;
+    transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+    color: #000000 !important;
+}
+
+.Navbar .cart-icon {
+    position: relative;
+    display: inline-block;
+}
+
+.Navbar .cart-icon .cart-count {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    padding: 0.2em 0.6em;
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+
+.login-button {
+    background-color: #FFD700 !important;
+    color: #000;
+    border-radius: 30px;
+    padding: 10px 20px !important;
+    border: 2px solid #FFD700;
+    font-weight: bold !important;
+    text-align: center;
+    width: 130px;
+    transition: all 0.3s ease;
+}
+
+.login-button:hover {
+    background-color: #FFA500;
+    color: #fff;
+    border-color: #FFA500;
+    transform: scale(1.1);
+} */
+
+.login-button {
+    border: 2px solid #4F46E5;
+    /* Adds a violet border */
+    color: #4F46E5;
+    /* Sets the text color to violet */
+    background-color: transparent;
+    /* Ensures no background color */
+    padding: 5px 15px;
+    /* Adds padding */
+    border-radius: 20px;
+    /* Optional: rounded corners */
+    text-transform: uppercase;
+    /* Optional: makes the text uppercase */
+    font-weight: bold;
+    /* Optional: makes the text bold */
+    transition: border-color 0.3s ease-in-out;
+    /* Smooth transition for border color */
+}
+
+.login-button:hover {
+    border-color: #4F46E5;
+    /* Ensures border stays the same on hover */
+    color: #4F46E5;
+    /* Keeps text color violet on hover */
+    cursor: pointer;
+    /* Pointer cursor on hover */
+}
+
+a {
+    text-decoration: none !important;
+    color: inherit !important;
+}
+
+.profileEle {
+    text-decoration: none !important;
+}
