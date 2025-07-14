@@ -12,14 +12,20 @@ FarmOne is a MERN stack-based web platform that empowers farmers and rural commu
 ## Installation
 
 git clone https://github.com/akashsiripuram/CivicSphere.git
-cd CivicSphere
 
+cd CivicSphere
 #backend
   cd backend
+  
   npm install
+  
   npm run dev
+  
 #frontend
+
   cd frontend
+  
   npm install
+  
   npm run dev
     
