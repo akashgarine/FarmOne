@@ -15,4 +15,5 @@ Have suggestions, found a bug, or want to contribute?
 
 Feel free to open an issue or submit a pull request.
 
-Let’s build smarter, safer, and more sustainable cities together
+
+
