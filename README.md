@@ -9,23 +9,10 @@ FarmOne is a MERN stack-based web platform that empowers farmers and rural commu
 🌦️ Weather Forecasting & Pest Alerts using OpenWeather API
 
 🏛️ Centralized Government Schemes access for subsidies and benefits
-## Installation
+## Feedback
 
-git clone https://github.com/akashsiripuram/CivicSphere.git
+Have suggestions, found a bug, or want to contribute?
 
-cd CivicSphere
-#backend
-  cd backend
-  
-  npm install
-  
-  npm run dev
-  
-#frontend
+Feel free to open an issue or submit a pull request.
 
-  cd frontend
-  
-  npm install
-  
-  npm run dev
-    
+Let’s build smarter, safer, and more sustainable cities together
